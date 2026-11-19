@@ -9,6 +9,7 @@ mlruns/
 mlflow.db*
 mlartifacts/
 deployment/model/
+/bank-model-*.tar.gz
 
 *.pyc
 .DS_Store
