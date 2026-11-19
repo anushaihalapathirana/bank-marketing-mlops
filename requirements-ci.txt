@@ -1,0 +1,10 @@
+fastapi==0.162.5
+httpx2==2.14.0
+mlflow==3.18.0
+numpy==2.2.6
+pandas==2.3.3
+pydantic==2.14.3
+pytest==9.2.0
+scikit-learn==1.7.2
+uvicorn==0.54.0
+xgboost==3.2.0

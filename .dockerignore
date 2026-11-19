@@ -1,0 +1,15 @@
+.venv/
+venv/
+.git/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/
+notebooks/
+tests/
+mlruns/
+mlartifacts/
+mlflow.db*
+.env
+*.pyc
+.DS_Store
